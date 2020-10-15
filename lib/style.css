@@ -1,0 +1,56 @@
+/* Add your styles here */
+
+.imagen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.todo{
+  background-image: url("https://scx1.b-cdn.net/csz/news/800/2018/studyofdista.jpg")
+}
+
+.abajo {
+  background-color: lightgray;
+  margin: 10;
+  width: 100%;
+  display: inline-block;
+
+}
+.canciones{
+    float: left;
+    color: white;
+  background-color: #47e6f0;
+  width: 50%;
+    display: inline-block;
+   overflow: hidden;
+     font-family: Arial Black;
+
+
+
+}
+
+.top{
+     font-family: Tahoma;
+            padding-left: 10pt;
+
+
+}
+.nombre{
+  color: black;
+  background-color:  #b10230;
+  overflow: hidden;
+  font-family: Arial Black;
+
+}
+.MADEON{
+  padding-left: 10pt;
+
+}
+.bio{
+       font-family: Tahoma;
+       font-size: 15.1pt;
+       padding-left: 4pt;
+
+}
+
